@@ -200,7 +200,7 @@ header {
 }
 
 #page-title-inner {
-	background: rgba(153,204,102, 0.9);
+	background: #32a0d7;
 	-webkit-box-shadow: inset 0px 0px 5px rgba(0,0,0,.25);
 	-moz-box-shadow: inset 0px 0px 5px rgba(0,0,0,.25);
 	box-shadow: inset 0px 0px 5px rgba(0,0,0,.25);
@@ -1624,3 +1624,75 @@ margin: 0 auto;
 text-align: center;
 }
 
+.wedo{
+	background:#F2F2F2;
+	padding:3em 0;
+	position:relative;
+}
+.wedo-head h3{
+	text-transform: uppercase;
+	color: #868686;
+	border-bottom: 1px solid #868686;
+	display: inline-block;
+	padding: 0 0 0.5em 0;
+	font-size: 1.7em;
+}
+.wedo-head h3 span{
+	color:#0289CD;
+} 
+a.wedobtn{
+		
+}
+.wedo-left h4{
+	color:#868686;
+	font-size:1.5em;
+	text-transform:uppercase;
+}
+.wedo-left h4 label{
+	background: #0289CD;
+	width: 12px;
+	height: 47px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 0.5em;
+}
+.wedo-left p{
+	/*color: #9E9898;*/
+	line-height: 1.8em;
+	/*font-family: 'open_sanslight';*/
+}
+a.wedobtn{
+	background: #0289CD;
+	color: #FFF;
+	padding: 0.7em 1.8em;
+	display: inline-block;
+	text-decoration: none;
+	border-radius:0.5em;
+	-webkit-border-radius:0.5em;
+	-moz-border-radius:0.5em;
+	-o-border-radius:0.5em;
+	-ms-border-radius:0.5em;
+	margin-top: 1.3em;
+}
+a.wedobtn:hover{
+	background:#868686;
+}
+.wedo-grids {
+	padding: 3em 0;
+}
+a.w-down-arrow span {
+	width: 28px;
+	height: 28px;
+	display: block;
+	background:  no-repeat 0px 0px;
+	position: absolute;
+	bottom: 4%;
+	left: 49%;
+}
+
+/*---- marketing ----*/
+.marketing{
+	background: #F2F2F2;
+	padding: 5em 0;
+	margin: 1em 0;
+	position:relative;

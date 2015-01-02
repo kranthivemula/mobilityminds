@@ -5778,3 +5778,22 @@ a.badge:hover {
   position: fixed;
 }
 
+.text-center {
+  text-align: center;
+}
+.col-md-6 {
+    width: 60%;
+}
+}
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+		  
+		  
